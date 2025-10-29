@@ -1,0 +1,5 @@
+{
+  "name": "Shop Capital Tracker",
+  "description": "A web app that helps small shop owners record and track daily sales, expenses, stock purchases, and capital changes. The app automatically calculates daily, weekly, and monthly profits, as well as monitor capital increase or decrease over time. It provides beautiful dashboards with charts and reports.",
+  "requestFramePermissions": []
+}
